@@ -5,7 +5,7 @@ This project explores the factors influencing the age of first marijuana use amo
 ## 📂 Project Files
 
 - 📄 [Full Report (PDF)](Report_Surviving_the_teenage_years_without_smoking_marijuana.pdf) — Detailed explanation of methods, results, and discussion.
-- 📓 [Jupyter Notebook](Notebook_teen-marijuana-survival-analysis) — Full implementation of the analysis in Python.
+- 📓 [Jupyter Notebook](Notebook_teen-marijuana-survival-analysis.ipynb) — Full implementation of the analysis in Python.
 
 
 ## 🔍 Highlights
