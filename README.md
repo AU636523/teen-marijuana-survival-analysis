@@ -10,5 +10,15 @@ This project explores the factors influencing the age of first marijuana use amo
   - 🌲 Random Survival Forest
   - ⚡ XGBSE (XGBoost for Survival Analysis)
 
+## 📷 Preview
+
+### Kaplan-Meier Estimator
+Illustrates survival probability of not smoking marijuana up to age 17:
+![Kaplan Meier Estimator](figures/figure3_kaplan_meier.png)
+
+### Feature Importance from Cox Model
+Shows which covariates increase or decrease risk:
+![Cox Log HR](figures/figure8_cox_loghr.png)
+
 ## 📌 Key Insight
 Teens who try alcohol or cigarettes at a younger age are at significantly higher risk of early marijuana use. Socioeconomic status and parental support also play crucial roles.
